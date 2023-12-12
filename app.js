@@ -11,7 +11,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', "Bem vindo(a) ao Reblix Games - Descubra o número secreto se tu for o bichão mesmo");
+    exibirTextoNaTela('h1', "Reblix Games-Descubra o nº secreto");
 exibirTextoNaTela('p', "Escolha um número entre 1 e 10");
 }
 
